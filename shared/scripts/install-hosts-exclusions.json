@@ -19,6 +19,7 @@
 		".*[[:blank:]|\\.]whatsapp\\.net$"
 	],
 	"specific": {
-		"mbp13-i7": []
+		"mbp13-i7": [],
+		"mbp15-i7": []
 	}
 }
