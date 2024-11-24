@@ -6,7 +6,7 @@ maintain all my hosts.
 - Optionally follow the preliminary macOS [setup guide](macos/README.md).
 - Install Apple CLI Tools `xcode-select --install`.
 - Add the following location to Spotlight Privacy list `/Library/Developer`.
-- Clone this repo and run: `./macos/<hostname>/bootstrap.sh`.
+- Clone this repo and run: `./bootstrap.sh`.
 - Start neovim and let the LSP servers install.
 - Open applications and configure them as needed.
   - If the host stores its Docker's cache folder in an external drive, reinstall
